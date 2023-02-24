@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Efsane Oyun</title>
+    <!-- TemplateEndEditable -->
+    <link rel="stylesheet" href="../indexstil.css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+    </head>
+    <body>
+        <div id="container">
+            <header><img src="../bannerim.jpeg"></header>
+            <nav>
+                <ul>
+                    <li><a href="#">Oyunlar</a></li>
+                    <li><a href="#">AnaSayfa</a></li>
+                    <li><a href="#">İletişim</a></li>
+                </ul>
+            </nav>
+            <section>
+                <article><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable -->
+                    
+                </article>
+                    
+            </section>
+            <footer></footer>
+        </div>
+    </body>
+</html>
